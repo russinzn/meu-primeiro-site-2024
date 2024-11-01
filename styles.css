@@ -1,0 +1,13 @@
+body { 
+    background-color:blueviolet;
+    color: blue;
+}
+
+header{
+    background-color: black;
+    text-align:center;
+    font-size: 32px;
+    padding: 10px
+    border-bottom: solid 2px black;
+
+}
