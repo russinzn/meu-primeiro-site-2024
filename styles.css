@@ -1,13 +1,32 @@
 body { 
-    background-color:blueviolet;
-    color: blue;
+    background-color:black;
+    color: white;
 }
 
 header{
     background-color: black;
     text-align:center;
     font-size: 32px;
-    padding: 10px
+    padding: 10px;
     border-bottom: solid 2px black;
+}
 
+
+
+.primeirovideo {
+    background-color:blue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+    margin-left: 10px;
+    text-align: justify;
+}
+
+h1{
+    
 }
